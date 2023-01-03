@@ -1,0 +1,3 @@
+motor on motor driver
+motor driver IN1-IN4 on arduino pins 2-5
+. on GND, other pin on 5V

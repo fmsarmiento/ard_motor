@@ -1,0 +1,3 @@
+brown on GND
+red on 5V
+yellow on pin 8
